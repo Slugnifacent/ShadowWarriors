@@ -1,0 +1,183 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using DarwinsFinches.Attributes;
+
+namespace DarwinsFinches
+{
+    public class Enemy : GameObject
+    {
+        public int HP { get; set; }
+        public int Speed { get; set; }
+        public int Damage { get; set; }
+        public AttackType AttackType { get; set; }
+        public string EnemyColor { get; set; }
+        
+        public Weapons Weapon { get; set; }
+
+        public int RoundSpawned { get; set; }
+        public int Score { get; set; }
+
+        DirectionAnimationPacket attack;
+        DirectionAnimationPacket walk;
+
+        public Enemy()
+        {
+            this.HP = 100;
+            this.Speed = 5;
+            this.Damage = 30;
+            this.AttackType = AttackType.Melee;
+            this.EnemyColor = "red";
+            this.Weapon = Weapons.Sword;
+            this.RoundSpawned = 1;
+            this.Score = 5;
+            InitializeAnimation();
+            
+        }
+
+        public Enemy(int hp, int speed, int damage, AttackType attackType, string enemyColor, Weapons weapon, int roundSpawned, int score)
+        {
+            this.HP = hp;
+            this.Speed = speed;
+            this.Damage = damage;
+            this.AttackType = attackType;
+            this.EnemyColor = enemyColor;
+            this.Weapon = weapon;
+            this.RoundSpawned = roundSpawned;
+            this.Score = score;
+            InitializeAnimation();
+        }
+
+        void InitializeAnimation() {
+            kinetics = Kinetic.ZERO();
+            kinetics.position = new Vector2(100, 100);
+            Kinetic.SetBoundingBoxDimensions(ref kinetics.boundingBox, Game1.content.Load<Texture2D>(@"Enemy\Up\enemy-up-2"));
+
+            Animation Up = new Animation();
+            Up.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Up\enemy-up-2"));
+            Up.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Up\enemy-up-1"));
+            Up.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Up\enemy-up-2"));
+            Up.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Up\enemy-up-3"));
+            Up.SetTime(10);
+            Up.SetFrame(0);
+
+            Animation Down = new Animation();
+            Down.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Down\enemy-wc-down-2"));
+            Down.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Down\enemy-wc-down-1"));
+            Down.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Down\enemy-wc-down-2"));
+            Down.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Down\enemy-wc-down-3"));
+            Down.SetTime(10);
+            Down.SetFrame(0);
+
+            Animation Left = new Animation();
+            Left.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Left\wc-left-2"));
+            Left.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Left\wc-left-1"));
+            Left.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Left\wc-left-2"));
+            Left.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Left\wc-left-3"));
+            Left.SetTime(10);
+            Left.SetFrame(0);
+
+            Animation Right = new Animation();
+            Right.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Right\wc-right-2"));
+            Right.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Right\wc-right-1"));
+            Right.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Right\wc-right-2"));
+            Right.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Right\wc-right-3"));
+            Right.SetTime(10);
+            Right.SetFrame(0);
+
+            Animation Idle = new Animation();
+            Idle.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Up\enemy-up-2"));
+            Idle.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Down\enemy-wc-down-2"));
+            Idle.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Left\wc-left-3"));
+            Idle.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\Right\wc-right-3"));
+            Idle.SetTime(10);
+            Idle.SetFrame(0);
+
+
+            walk = new DirectionAnimationPacket();
+            walk.SetAnimation(Up, DirectionAnimationPacket.Animations.UP);
+            walk.SetAnimation(Down, DirectionAnimationPacket.Animations.DOWN);
+            walk.SetAnimation(Left, DirectionAnimationPacket.Animations.LEFT);
+            walk.SetAnimation(Right, DirectionAnimationPacket.Animations.RIGHT);
+            walk.SetAnimation(Idle, DirectionAnimationPacket.Animations.IDLE);
+
+
+            Animation AttackUp = new Animation();
+            int attackSpeed = 3;
+            Texture2D temp = Game1.content.Load<Texture2D>(@"Enemy\AttackUp\enemy-attack-up-1");
+            AttackUp.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackUp\enemy-attack-up-1"));
+            AttackUp.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackUp\enemy-attack-up-2"));
+            AttackUp.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackUp\enemy-attack-up-3"));
+            AttackUp.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackUp\enemy-attack-up-4"));
+            AttackUp.SetTime(attackSpeed);
+            AttackUp.Offset(new Vector2(-64, -64));
+            AttackUp.SetFrame(0);
+
+            Animation AttackDown = new Animation();
+            AttackDown.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackDown\enemy-attack-down-1"));
+            AttackDown.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackDown\enemy-attack-down-2"));
+            AttackDown.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackDown\enemy-attack-down-3"));
+            AttackDown.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackDown\enemy-attack-down-4"));
+            AttackDown.SetTime(attackSpeed);
+            AttackDown.SetFrame(0);
+
+            Animation AttackLeft = new Animation();
+            AttackLeft.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackLeft\enemy-attack-left-1"));
+            AttackLeft.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackLeft\enemy-attack-left-2"));
+            AttackLeft.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackLeft\enemy-attack-left-3"));
+            AttackLeft.SetTime(attackSpeed);
+            AttackLeft.Offset(new Vector2(-64, -64));
+            AttackLeft.SetFrame(0);
+
+            Animation AttackRight = new Animation();
+            AttackRight.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackRight\enemy-attack-right-1"));
+            AttackRight.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackRight\enemy-attack-right-2"));
+            AttackRight.AddFrame(Game1.content.Load<Texture2D>(@"Enemy\AttackRight\enemy-attack-right-3"));
+            AttackRight.SetTime(attackSpeed);
+            AttackRight.Offset(new Vector2(-0, -64));
+            AttackRight.SetFrame(0);
+
+            attack = new DirectionAnimationPacket();
+            attack.SetAnimation(AttackUp, DirectionAnimationPacket.Animations.UP);
+            attack.SetAnimation(AttackDown, DirectionAnimationPacket.Animations.DOWN);
+            attack.SetAnimation(AttackLeft, DirectionAnimationPacket.Animations.LEFT);
+            attack.SetAnimation(AttackRight, DirectionAnimationPacket.Animations.RIGHT);
+        }
+
+        public override bool Dead()
+        {
+            return (HP < 0);
+        }
+
+        public override void Update()
+        {
+            walk.Update(kinetics);
+            kinetics.velocity = PathFinding.Approach(kinetics.position, Avatar.Instance().kinetics.position,.01f);
+            kinetics.Update();
+        }
+
+        public override void Draw(SpriteBatch batch)
+        {
+            walk.Draw(batch);
+        }
+
+        public override void CollisionResolution(GameObject Item)
+        {
+            if (Item.GetType().Equals(typeof(Avatar)))
+            {
+                
+            }
+            if (Item.GetType().Equals(typeof(DamageBox)))
+            {
+                DamageBox temp = Item as DamageBox;
+                if (temp.Friendly())
+                {
+                    this.HP = -1;
+                }
+            }
+        }
+    }
+}

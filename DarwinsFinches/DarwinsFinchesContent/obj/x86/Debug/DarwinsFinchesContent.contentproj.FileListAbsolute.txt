@@ -1,0 +1,2 @@
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinchesContent\obj\x86\Debug\DarwinsFinchesContent.contentprojResolveAssemblyReference.cache
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinchesContent\obj\x86\Debug\DarwinsFinchesContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Xna.Framework;
+
+using DarwinsFinches.Attributes;
+
+namespace DarwinsFinches
+{
+    public class Enemy : GameObject
+    {
+        public int HP { get; set; }
+        public int Speed { get; set; }
+        public int Damage { get; set; }
+        public AttackType AttackType { get; set; }
+        public string EnemyColor { get; set; }
+        
+        public Weapons Weapon { get; set; }
+
+        public int RoundSpawned { get; set; }
+        public int Score { get; set; }
+        public Vector2 Position { get; set; }
+
+        public Enemy()
+        {
+            this.HP = 100;
+            this.Speed = 5;
+            this.Damage = 30;
+            this.AttackType = AttackType.Melee;
+            this.EnemyColor = "red";
+            this.Weapon = Weapons.Sword;
+            this.RoundSpawned = 1;
+            this.Score = 5;
+
+        }
+
+        public Enemy(int hp, int speed, int damage, AttackType attackType, string enemyColor, Weapons weapon, int roundSpawned, int score)
+        {
+            this.HP = hp;
+            this.Speed = speed;
+            this.Damage = damage;
+            this.AttackType = attackType;
+            this.EnemyColor = enemyColor;
+            this.Weapon = weapon;
+            this.RoundSpawned = roundSpawned;
+            this.Score = score;
+
+        }
+        public override bool Dead()
+        {
+            return true;
+        }
+        public override void Update()
+        {
+        }
+        public override void CollisionResolution(GameObject Item)
+        {
+        }
+    }
+}

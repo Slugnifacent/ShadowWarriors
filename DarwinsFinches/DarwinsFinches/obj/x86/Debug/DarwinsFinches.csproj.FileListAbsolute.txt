@@ -1,0 +1,166 @@
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Background\background-0.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-4.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Font\Default.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\BGM\BossBattle.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\arrowhit.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\explosion.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\fireball.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\lightning.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\meleehit.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\swing.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\twang.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\zap.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\BGM\BossBattle.wma
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.exe
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.pdb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.exe
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.pdb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-1.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-2.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-3.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Shader\MotionBlur.xnb
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.exe.manifest
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.application
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.exe.manifest
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.application
+C:\Users\Slugnifacent\Desktop\SacJam\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.csprojResolveAssemblyReference.cache
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Background\background-0.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-4.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-1.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-2.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-3.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Font\Default.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\BGM\BossBattle.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\arrowhit.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\explosion.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\fireball.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\lightning.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\meleehit.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\swing.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\twang.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\zap.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Shader\MotionBlur.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\BGM\BossBattle.wma
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.exe.manifest
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.application
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.exe
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\DarwinsFinches.pdb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.csprojResolveAssemblyReference.cache
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.exe.manifest
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.application
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.exe
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\obj\x86\Debug\DarwinsFinches.pdb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\pixel.xnb
+C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\orange.xnb

@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Hero.jpg</Source>
+      <Name>Hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero.xnb</Output>
+      <Time>2012-09-22T16:23:00.9617048-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Down\wc-down-1.png</Source>
+      <Name>Hero\Down\wc-down-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-1.xnb</Output>
+      <Time>2012-09-23T11:25:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Down\wc-down-2.png</Source>
+      <Name>Hero\Down\wc-down-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-2.xnb</Output>
+      <Time>2012-09-23T11:25:34-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Down\wc-down-3.png</Source>
+      <Name>Hero\Down\wc-down-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Down\wc-down-3.xnb</Output>
+      <Time>2012-09-23T11:25:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Left\wc-left-1.png</Source>
+      <Name>Hero\Left\wc-left-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-1.xnb</Output>
+      <Time>2012-09-23T11:38:27-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Left\wc-left-3.png</Source>
+      <Name>Hero\Left\wc-left-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-3.xnb</Output>
+      <Time>2012-09-23T11:38:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Right\wc-right-1.png</Source>
+      <Name>Hero\Right\wc-right-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-1.xnb</Output>
+      <Time>2012-09-23T15:42:35-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Right\wc-right-3.png</Source>
+      <Name>Hero\Right\wc-right-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-3.xnb</Output>
+      <Time>2012-09-23T15:42:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Up\wc-up-1.png</Source>
+      <Name>Hero\Up\wc-up-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-1.xnb</Output>
+      <Time>2012-09-23T11:29:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Up\wc-up-2.png</Source>
+      <Name>Hero\Up\wc-up-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-2.xnb</Output>
+      <Time>2012-09-23T11:29:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Up\wc-up-3.png</Source>
+      <Name>Hero\Up\wc-up-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Up\wc-up-3.xnb</Output>
+      <Time>2012-09-23T11:29:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\background-0.png</Source>
+      <Name>Background\background-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Background\background-0.xnb</Output>
+      <Time>2012-09-23T02:45:31.5902763-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Down\attack-down-1.png</Source>
+      <Name>Hero\Attack\Down\attack-down-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-1.xnb</Output>
+      <Time>2012-09-23T11:16:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Down\attack-down-2.png</Source>
+      <Name>Hero\Attack\Down\attack-down-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-2.xnb</Output>
+      <Time>2012-09-23T11:17:01-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Down\attack-down-3.png</Source>
+      <Name>Hero\Attack\Down\attack-down-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-3.xnb</Output>
+      <Time>2012-09-23T11:17:03-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Down\attack-down-4.png</Source>
+      <Name>Hero\Attack\Down\attack-down-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Down\attack-down-4.xnb</Output>
+      <Time>2012-09-23T11:17:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Left\attack-left-1.png</Source>
+      <Name>Hero\Attack\Left\attack-left-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-1.xnb</Output>
+      <Time>2012-09-23T11:16:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Left\attack-left-2.png</Source>
+      <Name>Hero\Attack\Left\attack-left-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-2.xnb</Output>
+      <Time>2012-09-23T11:16:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Left\attack-left-3.png</Source>
+      <Name>Hero\Attack\Left\attack-left-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Left\attack-left-3.xnb</Output>
+      <Time>2012-09-23T11:16:35-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Right\attack-right-1.png</Source>
+      <Name>Hero\Attack\Right\attack-right-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-1.xnb</Output>
+      <Time>2012-09-23T11:17:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Right\attack-right-2.png</Source>
+      <Name>Hero\Attack\Right\attack-right-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-2.xnb</Output>
+      <Time>2012-09-23T11:17:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Right\attack-right-3.png</Source>
+      <Name>Hero\Attack\Right\attack-right-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Right\attack-right-3.xnb</Output>
+      <Time>2012-09-23T11:17:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Up\attack-up-1.png</Source>
+      <Name>Hero\Attack\Up\attack-up-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-1.xnb</Output>
+      <Time>2012-09-23T11:17:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Up\attack-up-2.png</Source>
+      <Name>Hero\Attack\Up\attack-up-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-2.xnb</Output>
+      <Time>2012-09-23T11:17:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Up\attack-up-3.png</Source>
+      <Name>Hero\Attack\Up\attack-up-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-3.xnb</Output>
+      <Time>2012-09-23T11:17:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Attack\Up\attack-up-4.png</Source>
+      <Name>Hero\Attack\Up\attack-up-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Attack\Up\attack-up-4.xnb</Output>
+      <Time>2012-09-23T11:17:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>VisualEffects\fire-1.png</Source>
+      <Name>VisualEffects\fire-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-1.xnb</Output>
+      <Time>2012-09-23T19:00:56.5673184-07:00</Time>
+    </Item>
+    <Item>
+      <Source>VisualEffects\fire-2.png</Source>
+      <Name>VisualEffects\fire-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-2.xnb</Output>
+      <Time>2012-09-23T19:00:43.203554-07:00</Time>
+    </Item>
+    <Item>
+      <Source>VisualEffects\fire-3.png</Source>
+      <Name>VisualEffects\fire-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-3.xnb</Output>
+      <Time>2012-09-23T19:00:09.3216161-07:00</Time>
+    </Item>
+    <Item>
+      <Source>VisualEffects\fire-4.png</Source>
+      <Name>VisualEffects\fire-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\VisualEffects\fire-4.xnb</Output>
+      <Time>2012-09-23T18:59:57.762955-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Left\wc-left-2.png</Source>
+      <Name>Hero\Left\wc-left-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Left\wc-left-2.xnb</Output>
+      <Time>2012-09-23T15:43:15.1198824-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero\Right\wc-right-2.png</Source>
+      <Name>Hero\Right\wc-right-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Hero\Right\wc-right-2.xnb</Output>
+      <Time>2012-09-23T15:45:19.6320041-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackDown\enemy-attack-down-1.png</Source>
+      <Name>Enemy\AttackDown\enemy-attack-down-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-1.xnb</Output>
+      <Time>2012-09-23T16:25:59.8615772-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackDown\enemy-attack-down-2.png</Source>
+      <Name>Enemy\AttackDown\enemy-attack-down-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-2.xnb</Output>
+      <Time>2012-09-23T16:25:59.8635773-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackDown\enemy-attack-down-3.png</Source>
+      <Name>Enemy\AttackDown\enemy-attack-down-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-3.xnb</Output>
+      <Time>2012-09-23T16:25:59.8685776-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackDown\enemy-attack-down-4.png</Source>
+      <Name>Enemy\AttackDown\enemy-attack-down-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackDown\enemy-attack-down-4.xnb</Output>
+      <Time>2012-09-23T16:25:59.8705777-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackUp\enemy-attack-up-1.png</Source>
+      <Name>Enemy\AttackUp\enemy-attack-up-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-1.xnb</Output>
+      <Time>2012-09-23T16:26:32.4904435-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackUp\enemy-attack-up-2.png</Source>
+      <Name>Enemy\AttackUp\enemy-attack-up-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-2.xnb</Output>
+      <Time>2012-09-23T16:26:32.4924436-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackUp\enemy-attack-up-3.png</Source>
+      <Name>Enemy\AttackUp\enemy-attack-up-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-3.xnb</Output>
+      <Time>2012-09-23T16:26:32.4954438-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackUp\enemy-attack-up-4.png</Source>
+      <Name>Enemy\AttackUp\enemy-attack-up-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackUp\enemy-attack-up-4.xnb</Output>
+      <Time>2012-09-23T16:26:32.4974439-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackLeft\enemy-attack-left-1.png</Source>
+      <Name>Enemy\AttackLeft\enemy-attack-left-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-1.xnb</Output>
+      <Time>2012-09-23T16:26:52.5305897-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackLeft\enemy-attack-left-2.png</Source>
+      <Name>Enemy\AttackLeft\enemy-attack-left-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-2.xnb</Output>
+      <Time>2012-09-23T16:26:52.5325898-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackLeft\enemy-attack-left-3.png</Source>
+      <Name>Enemy\AttackLeft\enemy-attack-left-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-3.xnb</Output>
+      <Time>2012-09-23T16:26:52.53459-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackLeft\enemy-attack-left-4.png</Source>
+      <Name>Enemy\AttackLeft\enemy-attack-left-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackLeft\enemy-attack-left-4.xnb</Output>
+      <Time>2012-09-23T16:26:52.5365901-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackRight\enemy-attack-right-1.png</Source>
+      <Name>Enemy\AttackRight\enemy-attack-right-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-1.xnb</Output>
+      <Time>2012-09-23T16:27:14.4288422-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackRight\enemy-attack-right-2.png</Source>
+      <Name>Enemy\AttackRight\enemy-attack-right-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-2.xnb</Output>
+      <Time>2012-09-23T16:27:14.4298423-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackRight\enemy-attack-right-3.png</Source>
+      <Name>Enemy\AttackRight\enemy-attack-right-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-3.xnb</Output>
+      <Time>2012-09-23T16:27:14.4338425-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\AttackRight\enemy-attack-right-4.png</Source>
+      <Name>Enemy\AttackRight\enemy-attack-right-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\AttackRight\enemy-attack-right-4.xnb</Output>
+      <Time>2012-09-23T16:27:14.4358426-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Down\enemy-wc-down-1.png</Source>
+      <Name>Enemy\Down\enemy-wc-down-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-1.xnb</Output>
+      <Time>2012-09-23T16:27:40.8303523-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Down\enemy-wc-down-2.png</Source>
+      <Name>Enemy\Down\enemy-wc-down-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-2.xnb</Output>
+      <Time>2012-09-23T16:27:40.8313524-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Down\enemy-wc-down-3.png</Source>
+      <Name>Enemy\Down\enemy-wc-down-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Down\enemy-wc-down-3.xnb</Output>
+      <Time>2012-09-23T16:27:40.8343525-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Left\wc-left-1.png</Source>
+      <Name>Enemy\Left\wc-left-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-1.xnb</Output>
+      <Time>2012-09-23T16:27:49.1608288-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Left\wc-left-2.png</Source>
+      <Name>Enemy\Left\wc-left-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-2.xnb</Output>
+      <Time>2012-09-23T16:27:49.1628289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Left\wc-left-3.png</Source>
+      <Name>Enemy\Left\wc-left-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Left\wc-left-3.xnb</Output>
+      <Time>2012-09-23T16:27:49.163829-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Right\wc-right-1.png</Source>
+      <Name>Enemy\Right\wc-right-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-1.xnb</Output>
+      <Time>2012-09-23T16:27:56.7382622-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Right\wc-right-2.png</Source>
+      <Name>Enemy\Right\wc-right-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-2.xnb</Output>
+      <Time>2012-09-23T16:27:56.7402623-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Right\wc-right-3.png</Source>
+      <Name>Enemy\Right\wc-right-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Right\wc-right-3.xnb</Output>
+      <Time>2012-09-23T16:27:56.7422624-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Up\enemy-up-1.png</Source>
+      <Name>Enemy\Up\enemy-up-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-1.xnb</Output>
+      <Time>2012-09-23T16:35:52.6514829-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Up\enemy-up-2.png</Source>
+      <Name>Enemy\Up\enemy-up-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-2.xnb</Output>
+      <Time>2012-09-23T16:35:52.653483-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Up\enemy-up-3.png</Source>
+      <Name>Enemy\Up\enemy-up-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Enemy\Up\enemy-up-3.xnb</Output>
+      <Time>2012-09-23T16:35:52.6554831-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Default.spritefont</Source>
+      <Name>Font\Default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Font\Default.xnb</Output>
+      <Time>2012-09-22T23:08:00.4444154-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\BossBattle.mp3</Source>
+      <Name>BGM\BossBattle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\BGM\BossBattle.xnb</Output>
+      <Extra>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\BGM\BossBattle.wma</Extra>
+      <Time>2012-09-22T22:00:23.9567527-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arrowhit.wav</Source>
+      <Name>SFX\arrowhit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\arrowhit.xnb</Output>
+      <Time>2012-09-22T22:11:22.4472053-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\explosion.wav</Source>
+      <Name>SFX\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\explosion.xnb</Output>
+      <Time>2012-09-22T22:11:22.4482054-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\fireball.wav</Source>
+      <Name>SFX\fireball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\fireball.xnb</Output>
+      <Time>2012-09-22T22:11:22.4512056-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\lightning.wav</Source>
+      <Name>SFX\lightning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\lightning.xnb</Output>
+      <Time>2012-09-22T22:11:22.4522056-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\meleehit.wav</Source>
+      <Name>SFX\meleehit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\meleehit.xnb</Output>
+      <Time>2012-09-22T22:11:22.4532057-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\swing.wav</Source>
+      <Name>SFX\swing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\swing.xnb</Output>
+      <Time>2012-09-22T22:11:22.4552058-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\twang.wav</Source>
+      <Name>SFX\twang</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\twang.xnb</Output>
+      <Time>2012-09-22T22:11:22.4562059-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\zap.wav</Source>
+      <Name>SFX\zap</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\SFX\zap.xnb</Output>
+      <Time>2012-09-22T22:11:22.4572059-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shader\MotionBlur.fx</Source>
+      <Name>Shader\MotionBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\Shader\MotionBlur.xnb</Output>
+      <Time>2012-09-23T18:51:13.3299591-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2012-09-27T21:59:11.738057-07:00</Time>
+    </Item>
+    <Item>
+      <Source>orange.png</Source>
+      <Name>orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\orange.xnb</Output>
+      <Time>2012-09-27T22:10:08.7566363-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinchesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinchesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Slugnifacent\Desktop\Shadow Warriors\DarwinsFinches\DarwinsFinches\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-30T09:47:30.5328014-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
